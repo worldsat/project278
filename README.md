@@ -5,7 +5,7 @@
 ![XML](https://img.shields.io/badge/XML_Layouts-FF9900?style=for-the-badge&logo=android&logoColor=white)
 ![MVVM](https://img.shields.io/badge/MVVM_Architecture-5C5C5C?style=for-the-badge&logo=google&logoColor=white)
 
-Welcome! This repository contains the **free assets (coffee images, banner, category icons, UI elements)** used in my YouTube tutorial on building a stylish Online Shop App using Kotlin and XML in Android Studio.
+Welcome! This repository contains the **free assets (images, banner, category icons, UI elements)** used in my YouTube tutorial on building a stylish Online Shop App using Kotlin and XML in Android Studio.
 
 ---
 
